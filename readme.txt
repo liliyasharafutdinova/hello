@@ -1,1 +1,1 @@
-Hello, git rebase2!
+Hello, git rebase!
